@@ -1,0 +1,7 @@
+{
+    "title": "Warhammer 40,000 Tau Vehicles",
+    "type": "vehicle", 
+    "ignore": [
+        "addon.json"
+    ]
+}
